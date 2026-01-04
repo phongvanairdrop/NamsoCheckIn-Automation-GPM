@@ -242,10 +242,11 @@ Nếu gặp lỗi:
 ---
 ## Liên Hệ :
 Channel : https://t.me/PhongVanAirdrop
-Group Chat : https://t.me/PhongVanAirdropChat
-Tele : @HoaiThuEth95
-GitHub : https://github.com/phongvanairdrop
+Group Chat : https://t.me/PhongVanAirdropChat  
+Tele : @HoaiThuEth95  
+GitHub : https://github.com/phongvanairdrop  
 
 **Version:** 1.0.0
 **Last Updated:** 2026-01-04
+
 
