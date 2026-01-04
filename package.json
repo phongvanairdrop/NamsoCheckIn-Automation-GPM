@@ -1,0 +1,29 @@
+{
+  "name": "namso-validator-bot",
+  "version": "1.0.0",
+  "description": "Automate Namso Validator with GPM + Puppeteer",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "npx tsx scripts/test-multiple.ts",
+    "dev": "tsx src/index.ts",
+    "debug": "tsx scripts/debug-single-profile.ts",
+    "checkin": "node dist/index.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "puppeteer": "^23.11.1",
+    "p-queue": "^8.0.1",
+    "xlsx": "^0.18.5",
+    "node-telegram-bot-api": "^0.66.0",
+    "winston": "^3.17.0",
+    "dotenv": "^16.4.7",
+    "axios": "^1.7.9"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2"
+  }
+}
