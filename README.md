@@ -25,7 +25,7 @@ NamsoCheckIN Automation là công cụ tự động hóa việc check-in hàng n
 ### Yêu cầu
 
 - **Node.js 18+** - [Tải tại đây](https://nodejs.org/)
-- **GPM-Login** - [Tải tại đây](https://github.com/GPM-Login)
+- **GPM-Login** - [Tải tại đây](https://gpmloginapp.com)
 - **Windows** - Được tối ưu cho Windows
 
 ### Các bước cài đặt
@@ -145,7 +145,7 @@ Kết quả được lưu vào `config/results.xlsx`:
 
 | ProfileName | Email         | Login | Check-in | Convert | SHARE | Streak | Last Check In    |
 |-------------|---------------|-------|----------|---------|-------|--------|------------------|
-| Profile001  | xxx@gmail.com |   ✓   |    ✓     |    ✓    | 15000 | 5 Days | 2026-01-04 12:15 |
+| Profile001  | xxx@gmail.com |   ✓   |    ✓    |    ✓    | 15000 | 5 Days | 2026-01-04 12:15 |
 
 - **Save NGAY sau mỗi profile** - không mất data khi crash
 - Mỗi lần chạy **update** row theo ProfileName
@@ -248,3 +248,4 @@ GitHub : https://github.com/phongvanairdrop
 
 **Version:** 1.0.0
 **Last Updated:** 2026-01-04
+
